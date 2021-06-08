@@ -5,7 +5,7 @@ import PokemonList from "./PokemonList";
 
 const App = () => {
   return (
-    <div>
+    <div class="pokemonWrapper">
       <h1>Mi lista de pokemon</h1>
       <PokemonList list={data} />
     </div>

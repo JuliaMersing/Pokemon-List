@@ -31,7 +31,7 @@ I'm an student and as I stated before am learning Javascript right now, so, if  
 ## License
 MIT
 
-##  Want to earn more?
+##  Want to learn more?
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
